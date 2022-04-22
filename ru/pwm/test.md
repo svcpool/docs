@@ -4,6 +4,7 @@
 
 1. Установить [Metamask](https://metamask.io/)
 2. Создать в нем аккаунт
+3. Включить тестовые сети. Для этого кликнете по аватарке аккаунта ⇒ Настройки ([скриншот](screens/settings.jpg)) ⇒ Дополнительно ([скриншот](screens/addition.jpg)) ⇒ Показать тестовые сети ([скриншот](screens/test_network.jpg))
 3. Переключить Metamask на тестовую сеть Ropsten ([скриншот](screens/select_ropsten.png))
 4. Перейти в блок Assets и там нажать Import Tokens ([скриншот](screens/assets_import_token.png))
 5. Заполнить Token Contract Address значением `0xd123d786F9056E16e1B960F722BC2D5C17D624A5` и сохранить форму
